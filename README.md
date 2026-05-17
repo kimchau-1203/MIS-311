@@ -45,7 +45,7 @@ _**Figure 2: Missing values (row 30, 31, 32, 35 - column customer_type & product
 
 <img width="976" height="545" alt="image" src="https://github.com/user-attachments/assets/b4b24b27-429d-489b-83fe-43f4dd2792f0" />
 
-_**Figure 3: Missing values (row 44, 49, 61 column customer_type, product_category & quantity)**_
+_**Figure 3: Missing values (row 44, 49, 61 - column customer_type, product_category & quantity)**_
 
 <img width="1014" height="612" alt="image" src="https://github.com/user-attachments/assets/ba8ab2db-e21d-449e-9013-d29a9ee1c384" />
 
@@ -82,17 +82,17 @@ _**Figure 6: Duplicate values**_
 
 **3. Descriptive Statistics**
 
-<img width="511" height="371" alt="image" src="https://github.com/user-attachments/assets/3551d408-e288-48dc-b5bf-5f2721b428db" />
+<img width="650" height="358" alt="image" src="https://github.com/user-attachments/assets/abb86ff4-8705-4a7a-a589-2c87d810f170" />
 
 _**Figure 7: Summary statistics**_
-
-**Total Price**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The average spending per transaction is about USD 127, though some customers spend much higher amounts. This indicates the presence of high-value customers who contribute significantly to total revenue,a key group for targeted promotions or loyalty programs.
 
 **Quantity**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customers usually purchase around 10 items per transaction, showing a stable and moderate shopping pattern. This consistent buying behavior can help the supermarket predict product demand and manage inventory more efficiently.
+
+**Total price**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The average spending per transaction is about USD 127, though some customers spend much higher amounts. This indicates the presence of high-value customers who contribute significantly to total revenue,a key group for targeted promotions or loyalty programs.
 
 <img width="739" height="425" alt="image" src="https://github.com/user-attachments/assets/f5fb3549-3cf9-46fb-8b58-fd102c67cea0" />
 
