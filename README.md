@@ -82,7 +82,7 @@ _**Figure 6: Duplicate values**_
 
 **3. Descriptive Statistics**
 
-<img width="650" height="358" alt="image" src="https://github.com/user-attachments/assets/abb86ff4-8705-4a7a-a589-2c87d810f170" />
+<img width="654" height="365" alt="image" src="https://github.com/user-attachments/assets/40d7eff4-1bec-450c-a1fb-f84fed81d9cf" />
 
 _**Figure 7: Summary statistics**_
 
