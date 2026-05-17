@@ -122,6 +122,9 @@ _**Figure 10: Total Sales Revenue by Branch**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pie chart illustrates that Member customers contributed 58% of total sales, while Normal customers accounted for 42%. This 16% gap indicates that Members play a more pivotal role in the supermarket's overall sales performance. The results suggest that membership programs effectively encourage higher spending, and management should focus on converting more Normal shoppers into Members through targeted promotions to sustain this high-value revenue stream.
 
+**4. Conclusion**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In conclusion, the exploratory data analysis of the Supermarket Sale dataset has successfully identified key drivers of revenue performance. The significant sales gap between Branch A and Branch B, combined with the strong contribution from Member customers (58%), highlights the importance of strategic location management and customer loyalty programs. These findings provide a solid foundation for management to optimize resource allocation and enhance membership marketing strategies to ensure sustainable growth in the future.
 
 
 
