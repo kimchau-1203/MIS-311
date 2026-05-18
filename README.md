@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project analyzes the Supermarket Sale dataset, which captures transaction records from three primary branches in New York, Los Angeles, and Chicago. The dataset provides critical information regarding product categories, customer demographics, and sales metrics, enabling an in-depth evaluation of branch performance and consumer trends.
 - Initial Dataset Size: 253 rows × 8 columns
-- Final Dataset Size (after cleaning):** 239 rows × 8 columns
+- Final Dataset Size (after cleaning): 239 rows × 8 columns
 - Missing Values:12 missing values were deleted because the data was incomplete, including one row that contained 2 missing values
   
 **Columns:**
@@ -96,13 +96,13 @@ _**Figure 7: Summary statistics**_
 
 <img width="739" height="425" alt="image" src="https://github.com/user-attachments/assets/f5fb3549-3cf9-46fb-8b58-fd102c67cea0" />
 
-**Figure 8:  Box Plot of Total Price per Transaction**
+_**Figure 8:  Box Plot of Total Price per Transaction**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The box plot presents the spread of total spending for each transaction. The median transaction value is about USD 106.59, while the mean is higher at USD 127.04, which indicates a slightly right-skewed distribution. Most transaction amounts are between USD 40 and USD 200, based on the interquartile range (IQR). The lowest transaction value is USD 2.18, and the highest is USD 427.14. This shows that most customers spend a moderate amount, while a small number of expensive purchases increase the average transaction value. In general, the distribution is consistent with the descriptive statistics results and shows differences in customer spending patterns. This information is useful for understanding customer behavior before analyzing deeper business insights.
 
 <img width="749" height="474" alt="image" src="https://github.com/user-attachments/assets/9d913259-0a49-495b-8a7e-ff17bc29bde6" />
 
-**Figure 9: Distribution of quantity per transaction**
+_**Figure 9: Distribution of quantity per transaction**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The histogram above shows how many products customers buy in one transaction. Most customers buy between 8 and 11 items, with around 55 transactions. Buying 1–4 items and 15–18 items is also common, with about 50–55 transactions. Only a smaller number of customers buy more than 18 items, with around 30 transactions. This means most customers make medium-sized purchases instead of very small or very large ones. Overall, the chart shows a fairly balanced buying pattern, so customer behavior is quite consistent. After understanding the overall distribution, the next step is to identify important business insights.
 
@@ -118,7 +118,7 @@ _**Figure 10: Total Sales Revenue by Branch**_
 
 <img width="792" height="487" alt="image" src="https://github.com/user-attachments/assets/e7738f22-066c-49ce-9abf-285496edcbf0" />
 
-**Figure 11:Total Sales Distribution between Member and Normal Customer**
+_**Figure 11:Total Sales Distribution between Member and Normal Customer**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pie chart illustrates that Member customers contributed 58% of total sales, while Normal customers accounted for 42%. This 16% gap indicates that Members play a more pivotal role in the supermarket's overall sales performance. The results suggest that membership programs effectively encourage higher spending, and management should focus on converting more Normal shoppers into Members through targeted promotions to sustain this high-value revenue stream.
 
